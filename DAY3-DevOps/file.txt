@@ -1,1 +1,1 @@
-echo "new branch created" >> file.txt
+echo "updated branch created" >> file.txt
